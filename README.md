@@ -94,6 +94,8 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"/></code>
 </p>
 
+&nbsp;
+
 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Things I've Built…</strong></em></p>
 
@@ -158,6 +160,8 @@
     </td>
   </tr>
 </table>
+
+&nbsp;
 
 <p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" />&nbsp;
