@@ -13,7 +13,8 @@
 
 ---
 
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200/">
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" />
+
 <hr>
 ### 👩‍💻 &nbsp;About Me
 
