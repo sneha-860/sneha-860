@@ -95,15 +95,101 @@
 </p>
 
 
-### 🚀 &nbsp;Featured Projects
+<hr>
 
-| 🏗️ Project | 🔧 Stack | 📌 Highlights |
-|---|---|---|
-| **Employee Management System** | Spring Boot · MySQL · JWT · Swagger | Role-based auth, paginated REST APIs, normalized DB schema |
-| **Social E-commerce Platform** | React · Node.js · MongoDB · Express | Full-stack with JWT auth, cart & checkout, responsive UI |
-| **Recommendation System** | Python · Scikit-learn · Pandas | Collaborative + content filtering engine |
+<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Things I've Built…</strong></em></p>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Employee Management System</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+      </p>
+      <p align="center">Role-based auth · Paginated REST APIs · JWT · Swagger docs · Normalized DB schema</p>
+      <p align="center">
+        <a href="https://github.com/sneha-860">
+          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍰 BakeAura</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+      </p>
+      <p align="center">Full-stack bakery platform · JWT auth · Cart & checkout · Responsive UI</p>
+      <p align="center">
+        <a href="https://github.com/sneha-860">
+          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Audit AI</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40"/>
+      </p>
+      <p align="center">AI-powered audit assistant · Smart analysis · Automated reporting · Full-stack</p>
+      <p align="center">
+        <a href="https://github.com/sneha-860">
+          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Social E-commerce Platform</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+      </p>
+      <p align="center">Social features · JWT auth · Dynamic cart · Protected routes · Responsive UI</p>
+      <p align="center">
+        <a href="https://github.com/sneha-860">
+          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Recommendation System</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40"/>
+      </p>
+      <p align="center">Collaborative + content filtering · Personalized suggestions · Scikit-learn · Pandas</p>
+      <p align="center">
+        <a href="https://github.com/sneha-860/Recommendation_System">
+          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Portfolio Website</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+      </p>
+      <p align="center">Personal portfolio · Projects showcase · Responsive design · Deployed on GitHub Pages</p>
+      <p align="center">
+        <a href="https://sneha-860.github.io">
+          <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 📊 &nbsp;GitHub Stats
 
