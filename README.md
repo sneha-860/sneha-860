@@ -211,42 +211,10 @@
 ### 🐍 &nbsp;Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sneha-860/sneha-860/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/sneha-860/sneha-860/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
+  <img src="https://raw.githubusercontent.com/sneha-860/sneha-860/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
 </p>
 
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sneha-860
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-### 🎯 &nbsp;2025 Goals
-
-```text
-✅  Ship Employee Management System to production
-✅  Master Spring Boot Microservices
-🔲  Crack a high-paying backend/fullstack role
-🔲  Contribute to an open-source Java project
-🔲  Complete System Design fundamentals
-```
-
----
 
 ### 📫 &nbsp;Reach Me
 
