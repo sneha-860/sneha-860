@@ -102,36 +102,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Employee Management System</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-      </p>
-      <p align="center">Role-based auth · Paginated REST APIs · JWT · Swagger docs · Normalized DB schema</p>
-      <p align="center">
-        <a href="https://github.com/sneha-860">
-          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍰 BakeAura</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-      </p>
-      <p align="center">Full-stack bakery platform · JWT auth · Cart & checkout · Responsive UI</p>
-      <p align="center">
-        <a href="https://github.com/sneha-860">
-          <img src="https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🤖 Audit AI</h3>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
