@@ -21,7 +21,7 @@
   <a href="https://sneha-860.github.io" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://leetcode.com" target="blank">
+  <a href="https://leetcode.com/u/sneha_860/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/sneha-860" target="blank">
@@ -32,33 +32,23 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sneha-860&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sneha-860" />
 </p>
----
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" />
 
-### 👩‍💻 &nbsp;About Me
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 
 &nbsp;
 
-🚀 &nbsp;Java Backend & Full Stack Developer from **Delhi, India**
-
-🏛️ &nbsp;CS undergrad at **Maharaja Surajmal Institute of Technology**
-
-🔨 &nbsp;Currently building an **Employee Management System** with Spring Boot + JWT + MySQL
-
-🌱 &nbsp;Levelling up in **System Design**, **Microservices** & **Cloud Architecture**
-
-💡 &nbsp;Passionate about clean APIs, scalable backends & real-world problem solving
-
-🎯 &nbsp;Actively seeking **high-impact Java Backend / Full Stack roles**
-
-💬 &nbsp;Ask me about **Spring Boot**, **REST APIs**, **React**, or **DSA**
-
-⚡ &nbsp;Fun fact: *I debug faster at midnight than at noon* 🌙
+✔ &nbsp;👩‍💻 **Java Backend & Full Stack Developer** hustling from **Delhi, India** 🇮🇳   
+✔ &nbsp;🌱 Levelling up in **System Design**, **Microservices** & **Cloud Architecture**  
+✔ &nbsp;💡 I believe great software = clean APIs + scalable backends + zero excuses  
+✔ &nbsp;🎯 Actively hunting **high-paying Java Backend / Full Stack roles** — let's talk!  
+✔ &nbsp;💬 Ask me about **Spring Boot**, **REST APIs**, **React**, or **DSA** — I love a good tech chat  
+✔ &nbsp;⚡ Fun fact: *My best debugging sessions happen at midnight* 🌙 *and my best bakes happen at 3am* 🍰  
 
 &nbsp;
-
----
 
 ### 🛠 &nbsp;Tech Stack
 
