@@ -186,7 +186,7 @@
 &nbsp;
 
 ### 📫 &nbsp;Let's Connect
-
+&nbsp;
 <p align="center">
   <em>I'm actively looking for <b>Java Backend</b> and <b>Full Stack</b> opportunities.<br/>
   If you're building something exciting or have a role that fits — my inbox is always open! 🚀</em>
