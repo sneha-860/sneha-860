@@ -171,6 +171,7 @@
   &nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" />
 </p>
 
+&nbsp;
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-860&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sneha-860" />
@@ -182,6 +183,7 @@
 
 
 <hr>
+&nbsp;
 
 ### 📫 &nbsp;Let's Connect
 
