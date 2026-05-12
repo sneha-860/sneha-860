@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Java Backend & Full Stack Developer** from Maharaja Surajmal Institute of Technology, passionate about designing and shipping production-grade web applications. I specialize in building RESTful APIs with **Spring Boot**, crafting responsive frontends with **React**, and deploying on cloud platforms.
+I'm a **Java Backend & Full Stack Developer**, passionate about designing and shipping production-grade web applications. I specialize in building RESTful APIs with **Spring Boot**, crafting responsive frontends with **React**, and deploying on cloud platforms.
 
 - 🔨 Currently building: **Employee Management System** (Spring Boot · REST APIs · MySQL · Pagination) and a **Social E-commerce Platform**
 - 🎯 Targeting roles in: **Java Backend** and **Full Stack Development**
