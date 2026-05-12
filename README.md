@@ -35,8 +35,6 @@
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" />
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 
 &nbsp;
@@ -50,10 +48,9 @@
 
 &nbsp;
 
-### 🛠 &nbsp;Tech Stack
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
 
-<h4>☕ Backend</h4>
+<h4> Backend</h4>
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot"/></code>
@@ -61,7 +58,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express"/></code>
 </p>
 
-<h4>🎨 Frontend</h4>
+<h4> Frontend</h4>
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js"/></code>
@@ -71,7 +68,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"/></code>
 </p>
 
-<h4>🗄️ Databases</h4>
+<h4> Databases</h4>
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"/></code>
@@ -79,7 +76,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis"/></code>
 </p>
 
-<h4>☁️ DevOps & Cloud</h4>
+<h4> DevOps & Cloud</h4>
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes"/></code>
@@ -88,7 +85,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" title="GitHub"/></code>
 </p>
 
-<h4>🛠️ Tools</h4>
+<h4> Tools</h4>
 <p>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma"/></code>
@@ -96,6 +93,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA"/></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"/></code>
 </p>
+
 
 ### 🚀 &nbsp;Featured Projects
 
