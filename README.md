@@ -35,7 +35,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" />
 
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong><b>Talking about Personal Stuffs…<b></strong></em></p>
+<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 
 &nbsp;
 
@@ -94,8 +94,6 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"/></code>
 </p>
 
-
-<hr>
 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Things I've Built…</strong></em></p>
 
@@ -161,8 +159,6 @@
   </tr>
 </table>
 
-<hr>
-
 <p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" />&nbsp;
   <em><b>GitHub Stats</b></em>
@@ -181,13 +177,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha-860&theme=tokyo-night&hide_border=true&area=true" alt="sneha-860 activity graph" />
-</p>
-
-### 🐍 &nbsp;Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sneha-860/sneha-860/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
-  <img src="https://raw.githubusercontent.com/sneha-860/sneha-860/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
 </p>
 
 
