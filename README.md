@@ -1,16 +1,37 @@
-![Cover](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sneha%20Kalra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descAlign=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sneha%20Kalra&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=☕%20Java%20Backend%20Developer%20%7C%20Full%20Stack%20Engineer%20🚀&descAlignY=58&descAlign=50&descSize=20" />
+</p>
+
+<h1 align="center">
+  Hi there, I'm Sneha Kalra
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD9FB&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%92%BB;Full+Stack+Engineer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+High-Impact+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sneha-kalra-5b4999281/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="28px" /></a>&nbsp;&nbsp;
-  <a href="mailto:snehakalra218@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="28px" /></a>&nbsp;&nbsp;
-  <a href="https://sneha-860.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="Portfolio" width="28px" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" width="28px" /></a>
+  <a href="https://www.linkedin.com/in/sneha-kalra-5b4999281/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:snehakalra218@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://sneha-860.github.io" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/sneha-860" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sneha-860&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sneha-860&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sneha-860" />
 </p>
-
 ---
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" />
