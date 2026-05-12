@@ -99,6 +99,8 @@
 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Things I've Built…</strong></em></p>
 
+&nbsp;
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -169,11 +171,6 @@
   &nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha-860&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180em"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-860&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-860&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="sneha-860" />
