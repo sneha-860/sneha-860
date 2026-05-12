@@ -216,20 +216,63 @@
 </p>
 
 
-### 📫 &nbsp;Reach Me
+<hr>
+
+### 📫 &nbsp;Let's Connect
+
+<p align="center">
+  <em>I'm actively looking for <b>Java Backend</b> and <b>Full Stack</b> opportunities.<br/>
+  If you're building something exciting or have a role that fits — my inbox is always open! 🚀</em>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sneha-kalra-5b4999281/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:snehakalra218@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://sneha-860.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com">
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
----
+<br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+<p align="center">
+  Here are some <a href="https://cultofthepartyparrot.com">🦜 parrots</a> to brighten your day:
+</p>
+
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" />
+</p>
