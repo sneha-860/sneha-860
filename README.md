@@ -191,18 +191,22 @@
   </tr>
 </table>
 
-### 📊 &nbsp;GitHub Stats
+<hr>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneha-860&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-860&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" />&nbsp;
+  <em><b>GitHub Stats</b></em>
+  &nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-860&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneha-860&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-860&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-860&theme=tokyonight&hide_border=true" alt="sneha-860" />
+</p>
 
 ### 🐍 &nbsp;Contribution Snake
 
