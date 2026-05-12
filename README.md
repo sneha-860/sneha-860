@@ -1,137 +1,139 @@
-<div align="center">
+![Cover](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sneha%20Kalra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descAlign=50)
 
-# Hi, I'm Sneha Kalra 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/sneha-kalra-5b4999281/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="28px" /></a>&nbsp;&nbsp;
+  <a href="mailto:snehakalra218@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" width="28px" /></a>&nbsp;&nbsp;
+  <a href="https://sneha-860.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="Portfolio" width="28px" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" width="28px" /></a>
+</p>
 
-### Java Backend Developer · Full Stack Engineer · Building Scalable Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-kalra-5b4999281/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehakalra218@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sneha-860.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sneha-860)
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm a **Java Backend & Full Stack Developer**, passionate about designing and shipping production-grade web applications. I specialize in building RESTful APIs with **Spring Boot**, crafting responsive frontends with **React**, and deploying on cloud platforms.
-
-- 🔨 Currently building: **Employee Management System** (Spring Boot · REST APIs · MySQL · Pagination) and a **Social E-commerce Platform**
-- 🎯 Targeting roles in: **Java Backend** and **Full Stack Development**
-- 🌱 Deepening expertise in: **System Design**, **Microservices Architecture**, and **Database Optimization**
-- 💬 Open to discussing: Spring Boot internals, REST API design, scalable architecture patterns
-- ⚡ Philosophy: *Write code that future-you will thank present-you for*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sneha-860&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+### 👩‍💻 &nbsp;About Me
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+&nbsp;
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+🚀 &nbsp;Java Backend & Full Stack Developer from **Delhi, India**
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+🏛️ &nbsp;CS undergrad at **Maharaja Surajmal Institute of Technology**
 
-### Tools
-![Swagger](https://img.shields.io/badge/Swagger-Clojure?style=flat-square&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+🔨 &nbsp;Currently building an **Employee Management System** with Spring Boot + JWT + MySQL
+
+🌱 &nbsp;Levelling up in **System Design**, **Microservices** & **Cloud Architecture**
+
+💡 &nbsp;Passionate about clean APIs, scalable backends & real-world problem solving
+
+🎯 &nbsp;Actively seeking **high-impact Java Backend / Full Stack roles**
+
+💬 &nbsp;Ask me about **Spring Boot**, **REST APIs**, **React**, or **DSA**
+
+⚡ &nbsp;Fun fact: *I debug faster at midnight than at noon* 🌙
+
+&nbsp;
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 &nbsp;Tech Stack
 
-### 🏢 Employee Management System
-> **Spring Boot · MySQL · REST API · JWT Authentication · Pagination**
+#### 💻 Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="42" height="42"/>
+</p>
 
-A full-featured employee management platform with role-based access, CRUD operations, and optimized server-side pagination — designed to handle enterprise-scale employee data efficiently.
+#### 🎨 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="42" height="42"/>
+</p>
 
-- Implemented **JWT-based authentication** for secure role-based access control
-- Built **paginated REST APIs** with sorting and filtering, reducing payload size significantly
-- Designed a normalized **MySQL schema** with proper indexing for fast queries
-- Documented all endpoints using **Swagger/OpenAPI**
+#### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42"/>
+</p>
 
-[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK_HERE)
-
----
-
-### 🛒 Social E-commerce Platform
-> **React · Node.js · MongoDB · Express.js · Tailwind CSS**
-
-A full stack e-commerce application with social features, user authentication, and a real-time product catalog.
-
-- Built a **RESTful backend** with Express.js and MongoDB for flexible product data modeling
-- Developed a responsive **React frontend** with dynamic cart and checkout flow
-- Integrated **JWT authentication** with protected routes on both client and server
-
-[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK_HERE)
-
----
-
-### 📊 Recommendation System
-> **Python · Machine Learning · Scikit-learn · Pandas**
-
-A content and collaborative filtering recommendation engine that personalizes suggestions based on user behavior and item metadata.
-
-[![View Repo](https://img.shields.io/badge/View_Repository-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sneha-860/Recommendation_System)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=sneha-860&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sneha-860&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
-
-</div>
+#### ☁️ DevOps & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="42" height="42"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+### 🚀 &nbsp;Featured Projects
 
-I'm actively looking for **Java Backend** and **Full Stack** opportunities. If you're building something interesting or have a role that could be a good fit, I'd love to chat!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-kalra-5b4999281/)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehakalra218@gmail.com)
-
-</div>
+| 🏗️ Project | 🔧 Stack | 📌 Highlights |
+|---|---|---|
+| **Employee Management System** | Spring Boot · MySQL · JWT · Swagger | Role-based auth, paginated REST APIs, normalized DB schema |
+| **Social E-commerce Platform** | React · Node.js · MongoDB · Express | Full-stack with JWT auth, cart & checkout, responsive UI |
+| **Recommendation System** | Python · Scikit-learn · Pandas | Collaborative + content filtering engine |
 
 ---
 
-<div align="center">
-  <i>Open to full-time roles, internships, and collaborations</i>
-</div>style=flat&logo=swagger&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+### 📊 &nbsp;GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sneha-860&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sneha-860&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sneha-860&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneha-860&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-860&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-860&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+---
+
+### 🐍 &nbsp;Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sneha-860/sneha-860/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🎯 &nbsp;2025 Goals
+
+```text
+✅  Ship Employee Management System to production
+✅  Master Spring Boot Microservices
+🔲  Crack a high-paying backend/fullstack role
+🔲  Contribute to an open-source Java project
+🔲  Complete System Design fundamentals
+```
+
+---
+
+### 📫 &nbsp;Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sneha-kalra-5b4999281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:snehakalra218@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://sneha-860.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
