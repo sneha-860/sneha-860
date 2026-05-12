@@ -183,7 +183,6 @@
 
 
 <hr>
-&nbsp;
 
 ### 📫 &nbsp;Let's Connect
 &nbsp;
