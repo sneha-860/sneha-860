@@ -35,7 +35,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" />
 
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
+<h5><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></h5>
 
 &nbsp;
 
