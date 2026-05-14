@@ -48,7 +48,7 @@
 
 &nbsp;
 
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
+<h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></h3>
 
 <h4> Backend</h4>
 <p>
@@ -97,7 +97,7 @@
 &nbsp;
 
 
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Things I've Built…</strong></em></p>
+<h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" />&nbsp;<em><strong>Things I've Built…</strong></em></h3>
 
 &nbsp;
 
